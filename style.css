@@ -1,0 +1,83 @@
+body {
+
+    background-color: grey;
+    font: 18.5px arial, sans-serif;
+
+}
+
+.e1 {
+
+    width: 1000px;
+    height: 94px;
+    text-align: center;
+    background-color: rgb(255, 248, 248);
+    color: grey;
+    margin: auto;
+
+}
+
+section {
+
+    width:521px;
+    text-align: center;
+    color:grey;
+    background-color: rgb(255, 248, 248);
+    float:left;
+    margin-left:202px;
+    border: 9px solid white;    
+
+}
+
+article {
+
+    border: 9px solid grey;
+
+}
+
+#e2 {
+
+    background-color: grey;
+    color:white;
+    height: 24px;
+
+}
+
+#e3 {
+
+    position: relative;
+    bottom:19px;
+
+}
+
+#e4 {
+
+    position:relative; 
+    bottom: 89px;
+
+}
+
+div {
+
+    border: 6px solid grey;
+
+}
+
+aside {
+
+    width:441px;
+    padding:112px 0px;
+    text-align: center;
+    color:grey;
+    background-color: rgb(255, 248, 248); 
+    float:left;
+    margin-left:20px;
+}
+
+footer {
+
+    clear:both;
+    overflow: auto;
+    position:relative;
+    top:20px;
+
+}
